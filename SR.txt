@@ -21,7 +21,7 @@ Projekt A: Gra w unikanie [https://github.com/GrzegorzFedoryka/simple_game_winap
 Projekt B: Temat [link do repozytorium]
 
 Kanus Mateusz
-Projekt A: Temat [link do repozytorium]
+Projekt A: Quiz 5 pytań [https://github.com/MateuszKanus/PROJEKT_PA]
 Projekt B: Temat [link do repozytorium]
 
 Kuźmiński Paweł
