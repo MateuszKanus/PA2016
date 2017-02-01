@@ -25,8 +25,8 @@ Projekt A: Gra w unikanie [https://github.com/GrzegorzFedoryka/simple_game_winap
 Projekt B: Prawie-przeglądarka [https://github.com/GrzegorzFedoryka/webbrowser]
 
 Kanus Mateusz [???]
-Projekt A: Temat [link do repozytorium]
-Projekt B: Temat [link do repozytorium]
+Projekt A: Quiz WinApi [https://github.com/MateuszKanus/PROJEKT_PA]
+Projekt B: OpenGL Cubes [https://github.com/MateuszKanus/PROJEKT_PA]
 
 
 Ligas Szymon [???]
