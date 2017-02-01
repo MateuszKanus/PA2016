@@ -45,7 +45,7 @@ Projekt B: NFC catcher - pseudoterenowa pseudogra na androida [https://github.co
 
 Niemczuk Jakub [5.5]
 Projekt A: Not a Universal Resistance Meter [https://github.com/Halogenek/NURM] [OK!!]
-Projekt B: Temat [link do repozytorium]
+Projekt B: Temat Qt TCP Server [https://github.com/Halogenek/QTCPServer]
 
 Polański Paweł [5.5]
 Projekt A: JavaFX_aklimatyzacja [https://github.com/Josh55/KF_AppControl
