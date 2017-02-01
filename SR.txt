@@ -22,11 +22,11 @@ Projekt B: Temat [link do repozytorium]
 
 Fedoryka Grzegorz
 Projekt A: Gra w unikanie [https://github.com/GrzegorzFedoryka/simple_game_winapi] [OK, ale po co 6 timerów!!!]
-Projekt B: Prawie-przeglądarka [https://github.com/GrzegorzFedoryka/webbrowser]
+Projekt B: Temat [link do repozytorium]
 
 Kanus Mateusz [???]
-Projekt A: Temat [link do repozytorium]
-Projekt B: Temat [link do repozytorium]
+Projekt A: Quiz WinApi [https://github.com/MateuszKanus/PROJEKT_PA]
+Projekt B: OpenGL - kostki [link do repozytorium]
 
 
 Ligas Szymon [???]
