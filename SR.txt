@@ -4,7 +4,7 @@ Pliki źródłowe projektów proszę wrzucić na własne konta GitHub.
 
 Aniulis Jakub
 Projekt A: Przeglądarka grafiki [https://github.com/Ziemnianin007/GasSmiulator-5] [OK!, JLabel z ikoną, rysowanie 2d]
-Projekt B: JOGL animation with multithreading [https://github.com/Ziemnianin007/PA2016Project2/tree/master/PA2016Project2]
+Projekt B: Temat [link do repozytorium]
 
 Chudzyńska Aleksandra [4.0 fin]
 Projekt A: licznik [https://github.com/AChudzynska/licznik]
@@ -25,8 +25,8 @@ Projekt A: Gra w unikanie [https://github.com/GrzegorzFedoryka/simple_game_winap
 Projekt B: Prawie-przeglądarka [https://github.com/GrzegorzFedoryka/webbrowser]
 
 Kanus Mateusz [???]
-Projekt A: Temat [link do repozytorium]
-Projekt B: Temat [link do repozytorium]
+Projekt A: Quiz WinApi (Folder Win32Project1) [https://github.com/MateuszKanus/PROJEKT_PA]
+Projekt B: Kostki OpenGL C# (Plik Program.cs) [https://github.com/MateuszKanus/PROJEKT_PA]
 
 
 Ligas Szymon [???]
